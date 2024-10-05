@@ -1,0 +1,40 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+
+form div {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+label {
+    width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    padding: 8px;
+    width: 95%;
+}
+
+select {
+    padding: 8px;
+    width: 100%;
+}
+
+.btn {
+    background-color: #646cff;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background-color: #535bf2;
+}

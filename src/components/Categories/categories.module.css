@@ -1,0 +1,14 @@
+.categoryList {
+    /* list-style: none; */
+    padding: 0;
+}
+
+.categoryItem {
+    margin: 10px;
+}
+
+.categoryLink {
+    text-decoration: none;
+    color: #ddd;
+    font-weight: bold;
+}
